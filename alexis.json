@@ -1,0 +1,40 @@
+{
+  "squadName" : "SuperRegios ",
+  "homeTown" : "Metro ",
+  "formed" : 2016,
+  "secretBase" : "Super Norte",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "manteca",
+      "age" : 29,
+      "secretIdentity" : "Dan ",
+      "powers" : [
+        "Resistencia al fuego",
+        "Turbochelas",
+        "aguanta el frío"
+      ]
+    },
+    {
+      "name" : "la Regia",
+      "age" : 39,
+      "secretIdentity" : "Jane Wilson",
+      "powers" : [
+        "fresa",
+        "sabe hacer fiestas",
+        "es toxica"
+      ]
+    },
+    {
+      "name" : "Eternal Flame",
+      "age" : 1000000,
+      "secretIdentity" : "Unknown",
+      "powers" : [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+    }
+  ]
